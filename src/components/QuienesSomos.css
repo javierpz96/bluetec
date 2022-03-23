@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .flex-items:nth-child(2) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+  .ContainerFondo{
+      background-color: rgb(255, 255, 255);
+      height: 580px;
+  }
+
+  .flex-container p{
+      width: 580px;
+      font-size: 16px;
+  }
+
+  .ContainerFondo h1{
+      text-align: center;
+      padding-top: 100px;
+      color: rgb(0, 0, 0);
+      font-family: 'DM Sans', sans-serif;
+      
+      
+  }
+
+  .imagenDATA{
+    width: 430px;
+  }
+
+  .blue{
+    font-weight: 700;
+    color: rgb(77, 119, 255);
+    
+  }
+
+.textowhy{
+  font-family: 'DM Sans', sans-serif;
+  
+}
+
+.flex-items p{
+  font-size: 17px;
+  color: rgb(74, 59, 95);
+}
+
+.pepe{
+  text-align: center;
+  margin-top: 12px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 17px;
+  color: rgb(74, 59, 95);
+}
+
+.nosotros1{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 45px;
+  margin-top: 50px;
+}
+
+.waves{
+  margin-top: 200px;
+
+}
+
+
+
+
+
+  

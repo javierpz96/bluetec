@@ -1,0 +1,12 @@
+.Servicios {
+  background-color: rgb(202, 86, 40);
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.cajaServicios h1{
+    margin-top: 6px;
+    font-size: 35px;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
+.FlexContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: rgba(255, 255, 255, 0.883);
+  
+  height: 40vh;
+  overflow: auto;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.FlexContainer div {
+  width: 250px;
+  height: 200px;
+  margin: 40px;
+  
+}
+
+.iconu{
+  text-align: center;
+  
+  
+  
+}
+
+.FlexContainer p{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+  color: rgb(74, 59, 95);
+  margin-top: 15px;
+  text-align: start;
+  margin-left:40px;
+}
+
+.whyh1{
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 22px;
+}
+
+.whyp p{
+  font-family: 'DM Sans', sans-serif;
+  color: rgb(74, 59, 95);
+  text-align: center;
+  margin-top: 19px;
+}
+
+.FlexContainer h1{
+  margin-top: 10px;
+  font-size: 25px;
+  font-weight: 700;
+}
